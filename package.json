@@ -1,0 +1,23 @@
+{
+  "name": "Console",
+  "version": "1.0.0",
+  "description": "the log with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxqian1991/Console.git"
+  },
+  "keywords": [
+    "console",
+    "color"
+  ],
+  "author": "qianzhixiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxqian1991/Console/issues"
+  },
+  "homepage": "https://github.com/zxqian1991/Console#readme"
+}
