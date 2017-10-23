@@ -23,4 +23,4 @@ $console.success('This is a SUCCESS message');
 ```
 ## License
 
-MIT © ['qianzhixiang jianghuihui'](https://github.com/zxqian1991)
+MIT © [Bharathvaj Ganesan](https://github.com/bharathvaj1995)
