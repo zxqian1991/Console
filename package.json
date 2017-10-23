@@ -1,23 +1,24 @@
 {
-  "name": "Console",
-  "version": "1.0.0",
-  "description": "the log with colors",
-  "main": "index.js",
-  "scripts": {
-    "test": "node tes"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zxqian1991/Console.git"
-  },
-  "keywords": [
-    "console",
-    "color"
-  ],
-  "author": "qianzhixiang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zxqian1991/Console/issues"
-  },
-  "homepage": "https://github.com/zxqian1991/Console#readme"
+    "name": "Console",
+    "version": "1.1.0",
+    "description": "Mini lightweight console color logger",
+    "main": "index.js",
+    "engines": {
+        "node": ">=6.4.0"
+    },
+    "scripts": {
+        "test": "node test",
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zxqian1991/Console.git"
+    },
+    "keywords": ["console", "color", "logger"],
+    "author": "qianzhixiang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zxqian1991/Console/issues"
+    },
+    "homepage": "https://github.com/zxqian1991/Console#readme"
 }
