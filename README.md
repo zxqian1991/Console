@@ -7,7 +7,7 @@ Mini lightweight console color logger.
 $ npm install Console --save
 ```
 
-## Usuage
+## Usage
 ```javascript
 let $console = require('Console');
 a = 'qianzhixiang';
